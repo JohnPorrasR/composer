@@ -1,0 +1,23 @@
+{
+	"name": "php/faker",
+	"description": "Uso de faker",
+	"type": "proyect",
+	"author": [
+		{
+			"name": "John Porras R",
+			"twitter": "@johnporrasr",
+			"role": "XD"
+		}
+	],
+	"require": {
+		"php": ">=5.3.0",
+		"fzaninotto/faker": "^1.4",
+		"dompdf/dompdf" : "0.6.*",
+		"phpexcel/phpexcel": "1.7.6"
+	},
+	"autoload": {
+		"psr-4": {
+
+		}
+	}
+}
