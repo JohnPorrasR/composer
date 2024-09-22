@@ -2,7 +2,8 @@
 
 require 'vendor/autoload.php';
 define('DOMPDF_ENABLE_AUTOLOAD', false);
-require_once 'vendor/dompdf/dompdf/dompdf_config.inc.php';
+
+use Dompdf\Dompdf;
 
 // Introducimos HTML de prueba
 $html = '<h1>@johnporrasr</h1>';

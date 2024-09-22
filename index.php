@@ -12,9 +12,6 @@
 		<li>
 			<a href="dompdf.php">dompdf</a>
 		</li>
-		<li>
-			<a href="phpExcel.php">phpExcel</a>
-		</li>
 	</ul>
 </body>
 </html>
